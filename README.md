@@ -1,4 +1,4 @@
-# BigData2021 Case Competition
+# ApertureAI: BigData2021 Case Competition
 
 *Using big data and AI to identify accounts at risk of money laundering.*
 
