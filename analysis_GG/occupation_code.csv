@@ -1,0 +1,406 @@
+Occupation Code,Occupation Description
+1,Accountant
+2,Actor
+3,Actuary
+4,Adjuster
+5,Administrator
+6,Advertising Worker
+7,Agriculturalist
+8,Air Traffic Control Worker
+9,Aircraft Assembler
+10,Aircraft Engineer Mechanic
+11,Aircraft Technician
+12,Airline Worker
+13,Ambulance Attendant
+14,Appraiser
+15,Apprentice
+16,Arbourist
+17,Architect
+18,Armed Services Member
+19,Artist
+20,Assembler
+21,Assessor
+22,Athlete
+23,Attaché
+24,Attendant
+25,Audiologist
+26,Auditor
+27,Author
+28,Auto Detail Worker
+29,Automotive Worker
+30,Bailiff
+31,Baker
+32,Banker
+33,Barber
+34,Bartender
+35,Billing Clerk
+36,Biologist
+37,Boilermaker
+38,Bookkeeper
+39,Bricklayer
+40,Broadcaster
+41,Builder
+42,Bus Driver
+43,Butcher
+44,By-law Enforcement Officer
+45,Cabinetmaker
+46,Cable / Line Worker
+47,Captain
+48,Cardiologist
+49,Care Worker
+50,Caregiver
+51,Caretaker
+52,Cargo Worker
+53,Carpenter
+54,Cashier
+55,Casino Worker
+56,Caterer
+57,Chartered Accountant
+58,Chauffeur
+59,Chef
+60,Chemical Worker
+61,Chemist
+62,Child Care Worker
+63,Chiropractor
+64,Choreographer
+65,Civil Engineer
+66,Claims Examiner
+67,Clay / Concrete / Stone Worker
+68,Cleaning Services
+69,Clergy Worker
+70,Clerk
+71,Coach
+72,Community Worker
+73,Composer
+74,Computer Analyst
+75,Computer Operator
+76,Computer Programmer
+77,"Conductor (Arts, Entertainment, Recreation, Sports)"
+78,Conservation and Fishery Worker
+79,Construction Worker
+80,Consultant
+81,Contractor
+82,Cook
+83,Corporal
+84,Correctional Department Worker
+85,Cosmetologist
+86,Counselor
+87,Court Services Worker
+88,Craft Worker
+89,Crane Operator
+90,Credit Analyst
+91,Curator
+92,Custodian
+93,Customer Sales / Service Representative
+94,Customs and Revenue Worker
+95,Customs Worker
+96,Cutter
+97,Dairy Worker
+98,Data Entry Clerk
+99,Dealer
+100,Dean
+101,Deck Hand
+102,Deli/Fast Food Worker
+103,Delivery and Courier Worker
+104,Dental Assistant
+105,Dental Hygienist
+106,Dentist
+107,Denture Specialist
+108,Deputy Minister
+109,Design Engineer
+110,"Designer (Arts, Entertainment, Recreation, Sports/Construction/Professional Services)"
+111,Developer
+112,Dietician
+113,Director
+114,Dispatch Worker
+115,Distributor
+116,Diver
+117,Dock Worker
+118,Doctor
+119,Draftsman
+120,Driller (Construction/Other)
+121,Driver
+122,Dry Waller
+123,Early Childhood Education
+124,Editor
+125,Education Assistant
+126,Electrical Engineer
+127,Electrician
+128,Electrologist
+129,Electronic Worker (Maintenance and Repair Service)
+130,Elevator Worker
+131,Engine Worker
+132,Engineer
+133,Esthetician
+134,Event Planner
+135,Executive Council Member
+136,Fabricator
+137,Facility Worker
+138,Factory Worker
+139,Farm Worker
+140,Farmer
+141,Federal Government Worker
+142,Ferry Worker (Marine)
+143,Financial Advisor
+144,Financial Analyst
+145,Financial Planner
+146,Finisher
+147,Fire Fighter/Fire Services Worker
+148,Fish Plant Worker
+149,Fisherman
+150,Fishmonger
+151,Flight Attendant
+152,Floor Manager/Supervisor
+153,Floor Worker (Manufacturing and Production)
+154,Florist
+155,Flying Instructor
+156,Food Producer
+157,Foreman
+158,Forester
+159,Forklift Operator
+160,Foster Parent
+161,Foundry Worker
+162,Framer
+163,Fund Manager
+164,Funeral Worker
+165,Fur Manufacturing Worker
+166,Furrier
+167,Gas Attendant
+168,Gas Fitter
+169,Geochemist
+170,Geologist
+171,Glass Cutter
+172,Glass Worker
+173,Government Agency Representative
+174,Grain Elevator Operator
+175,Graphic Artist
+176,Graphic Designer
+177,Grocery Manager/Worker
+178,Grounds Keeper / Landscaper
+179,Guide
+180,Hair Stylist
+181,Harvester
+182,Heavy Duty Mechanic
+183,Heavy Equipment Operator
+184,Home Support
+185,Host / Hostess
+186,Hotel Worker
+187,Housekeeper
+188,Human Resource Worker
+189,Hunter
+190,Illustrator
+191,Inspector
+192,Installer
+193,Instructor
+194,Instrument Mechanic
+195,Insurance Agent
+196,Insurance Broker
+197,Interpreter
+198,Inventory Worker (Other)
+199,Investment Professional
+200,Iron Worker
+201,IT Specialist
+202,Janitor
+203,Jeweler
+204,Journalist
+205,Judge
+206,Kitchen Staff
+207,Laboratory Worker
+208,Labourer
+209,Land / Urban Planner
+210,Laundry Services
+211,Law Clerk
+212,Lawyer
+213,Leather Product Manufacturing Worker
+214,Legal Assistant/Secretary
+215,Legislative Member
+216,Library Worker
+217,Licenced Practical Nurse
+218,Limousine Driver
+219,Livestock Worker
+220,Load Operator
+221,Loans Officer
+222,Logger
+223,Long Shore Worker
+224,Machine Operator
+225,Machinist
+226,Maintenance Worker
+227,Marketing Manager
+228,Massage Therapist
+229,Mechanic
+230,Mechanical Engineer
+231,Merchandising/Marketing Worker
+232,Meteorologist
+233,Mid Wife
+234,Military Officer
+235,Mill Operator
+236,Millwright
+237,Miner
+238,Moving Company
+239,Municipal Government Worker
+240,Museum Worker
+241,Musician
+242,Nanny
+243,Natural Resource Worker
+244,Navy Officer
+245,Nurse
+246,Nurse’s Aid
+247,Nursery or Greenhouse Worker
+248,Nutritionist
+249,Occupational Therapist
+250,Office Manager
+251,Office Worker
+252,Official / Referee
+253,Operator
+254,Optometrist
+255,Orderly
+256,Other
+257,Packer
+258,Painter
+259,Paramedic
+260,Parts Department Clerk
+261,Parts Manager
+262,Pathologist
+263,Payroll Administrator
+264,Personal Trainer
+265,Pest Control Worker
+266,Pet Care Worker
+267,Petroleum Manufacturing Worker
+268,Pharmacist
+269,Pharmacy Technician
+270,Photographer
+271,Physician
+272,Physicist
+273,Physiotherapist
+274,Pilot
+275,Pipe fitter
+276,Plant Manager
+277,Plasterer
+278,Plumber
+279,Police Officer
+280,Police Services Worker
+281,Political Party Worker
+282,Postal Service Worker
+283,Press Operator
+284,Principal / Vice Principal
+285,Producer
+286,Production Manager
+287,Production Supervisor
+288,"Production Worker (Arts, Entertainment, Recreation, Sports/Other)"
+289,Professor
+290,Programmer
+291,Property Management Worker
+292,Protective Services Worker
+293,Provincial Government Worker
+294,Psychologist
+295,Public Works Department Worker
+296,Publisher
+297,Pulp & Paper Worker
+298,Purchasing Agent
+299,Purchasing Manager
+300,Purser
+301,Radiologist
+302,Railway Worker
+303,Real Estate Agent / Broker
+304,Refrigeration Worker
+305,Registrar
+306,Renovator
+307,Research Assistant
+308,Researcher
+309,Respiratory Worker
+310,Restaurant Owner
+311,Rig Worker
+312,Roofer
+313,Sales and Service Worker
+314,Sales Manager
+315,Scheduler
+316,Sculptor
+317,Seamstress / Tailor
+318,Secretary/Receptionist
+319,Securities Agent
+320,Security Guard
+321,Server
+322,Sheet Metal Worker
+323,Shelf Stocker
+324,Sheriff
+325,Ship Yard Worker
+326,Shipper / Receiver
+327,Shoe Maker
+328,Shop Foreman
+329,Singer
+330,Skilled Labourer
+331,Social Services Worker
+332,Software Analyst
+333,Software Designer
+334,Software Developer
+335,Software Engineer
+336,Speech Pathologist
+337,Statistician
+338,Store Clerk
+339,Superintendent (Construction)
+340,Surveyor
+341,Taxi Driver
+342,Teacher
+343,Teaching Assistant
+344,Technician
+345,Technologist
+346,Telemarketer
+347,Teller
+348,Textile Worker
+349,Therapist
+350,Tile Setter
+351,Tool & Die Worker
+352,Tour Guide
+353,Transit Worker
+354,Translator
+355,Trapper
+356,Travel Agent
+357,Tree Cutter
+358,Truck Driver
+359,Veterinarian
+360,Waiter
+361,Waitress
+362,Warehouse Manager
+363,Warehouse Worker
+364,Waste Management Worker
+365,Water Transportation Worker
+366,Welder
+367,"Writer (Arts, Entertainment, Recreation, Sports)"
+368,Youth Worker
+369,Conductor (Transportation/Travel)
+371,Designer (Personal Care Worker)
+373,"Electronic Worker (Media, Telecommunications & Technology)"
+374,Ferry Worker (Transportation/Travel)
+375,"Floor Worker (Wholesale, Retail Sales and Trades)"
+376,"Inventory Worker (Wholesale, Retail Sales and Trades)"
+377,Production Worker (Manufacturing and Production/Other)
+378,Superintendent (Education)
+379,"Writer (Media, Telecommunications & Technology)"
+380,"Driller (Mining, Quarry, Oil)"
+381,Floor Worker (Other)
+382,Superintendent (Other)
+383,Conductor (Other)
+384,Head of an Institute
+385,Member of ruling families
+386,Member of executive council of government
+387,Deputy Minister (or equivalent)
+388,"Military rank of general, or equivalent (or higher rank)"
+389,Judge of a supreme court
+390,Ambassador
+391,Mayors of Canadian municipalities
+392,Head of a government agency
+393,President of a state-owned company or bank
+394,Head of an international organization established by the governments of states
+395,Leader or president of a political party in a legislature
+396,Head of a charity
+397,Counselor of an ambassador
+398,"Judge of an appellate court, or local equivalent"
+399,Member of a legislature
+400,Head of State
+401,Head of Government
+UNK,Unknown Occupation
+E900,Student
+E901,Unemployed
+E902,Retired
+E903,Homemaker
+E904,Self-employed
